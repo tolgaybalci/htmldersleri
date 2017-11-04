@@ -1,0 +1,40 @@
+div{
+    height: 1024px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+body
+{
+ font:Arial, Helvetica, sans-serif;
+ font-size:12px;
+}
+
+.menum
+{
+ list-style-type:none;
+ margin:0px;
+ padding:0px;
+}
+
+.menum a
+{
+ display:block;
+ color:#000;
+ background-color:#9CF;
+ width:80px;
+ text-decoration:none;
+ padding:4px 10px;
+}
+
+.menum a:hover
+{
+ font-weight:bold;
+ color:#FFFFFF;
+ background-color:#2586D7;
+}
+
+.menum li
+{
+ margin:0px 0px 2px 0px;
+}
